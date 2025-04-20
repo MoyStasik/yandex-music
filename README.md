@@ -886,3 +886,8 @@
         <td>Будет хранить историю прослушиваний, которая впоследствии будет записываться в Clickhouse, выдерживает большую нагрузку</td>
     </tr>
 </table>
+
+## 9. Схема проекта
+
+<img width="942" alt="image" src="https://github.com/user-attachments/assets/2851f453-c9ba-4e95-a1e9-e0d4ae5bcedf" />
+
