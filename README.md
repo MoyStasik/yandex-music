@@ -889,5 +889,6 @@
 
 ## 9. Схема проекта
 
-<img width="942" alt="image" src="https://github.com/user-attachments/assets/2851f453-c9ba-4e95-a1e9-e0d4ae5bcedf" />
+<img width="1026" alt="image" src="https://github.com/user-attachments/assets/1709e76d-a0d2-4b8a-8956-1c3eda293c29" />
+
 
